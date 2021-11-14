@@ -1,0 +1,933 @@
+[[QCDNUM]]
+arch = "aarch64"
+git-tree-sha1 = "fd2467896bef28438446c864b64090dabf84910e"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[QCDNUM.download]]
+    sha256 = "c6b4032acb9640eddb5ab9140727228f018a3435dfb1522fe3a5a453defc4705"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "50bd63f30f41132e3c1bf5747f9bde0a2736c2e8"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "be42e23ceec4ab49b79404422df7391f02f1b2a50490c61db7c72da22031f2d8"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "961676d9d9b938fb8086d4fbe07c50517d079eae"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "8d0967e5f9f24faf11c6be06547af19654fde3678a9e3c4d04c44c21aedd66e5"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f939dd0c62798e5e9604e7fc2fd4d21505ba1ce6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "65f009e76868d77668f2adfa8b46330be97907303c79edd813466afbe1522d6e"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b16995df9658f8d6c72387e14abb9b66f6b7a6c1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "c8449cdb5b4a3aa70d986c44a41125ea9126215d95b2c7a4f31ab78d1311400f"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d77a7d6d34186d082154b44783db1e18ece8263f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "d65f0bba3e01f5de84154fc673301a3cdd21dd834c176ea0f118b23c9de9cead"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c39ab9890ea88e2974e64fe3d96d8b445297287"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "21a82c26a00d8f94ed8d4f6b950d7aaebbfbb4e99d27c8d948c7c52c0d84661e"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2225a4d0498521b9298409ce84a075ec9846326a"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "d8ab50263506d765053052df2e505d98870fade6710015a3e03244dd986858d1"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-musl-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c89aa7a1f6e080ade48428e5a7dd0d3a7201ae1c"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "31f821e867cb2dd11e8fb2ed399d700ba430fbbe820269e5456436a83544d6f8"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0d0a0e876da404aa89188c346163447940d1bd49"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "08a2360c597d5618f283bf3d9588bf1ead0d56aca537e9a8a5308279c1d46bfe"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c883a6964d819770f8f53babe6f2931a6c3b873"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "e6428b43658ed579ff3b0a3004b7e19b2e0bf98642e40d25c6c8af521e824c4a"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f211a72260ba21bba858f7874684ee1f01139608"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "8bbcd3e8dfc6c23fd1df02c959b6de6fad126f02575aa72937011dc17e57cb4c"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11100d767cec16274c97372dda2739ae26a0e51a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "ef0dd42c2a55279b893fe0ff980cbaba9bd885b7f2f0649585321f73c0d239db"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e173efa902520af45723172a778a246b05576e9"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "e8b4ec80c8b11287fe816cbbd440253d008665f6ab794a43c60f847f4a354c10"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a882b62e62609f0a23d92f4ec866bc9ded05dfd"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "6187db911567cd11e1d41be1eb5f13ca6e728a49027eda876fbe505baf2e8f4c"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c8be4466c34c4a47e8e52054efc79da67f1a5039"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "a712850d504fe4fa2e321485e302b50991a1381b37f2d71b5d030baad0938cb1"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "03396bbc63b56f966588f4c288f53849728da821"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "0abe8a6e36859068dd367843761e9f6a90025e904c13fdca8b642044c2c08771"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "70b4871aec0ed02ce9d37e0242f5e07f66e6dc05"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "77c9110db503b6afe8b5471eaf6cd2f9efdb525427d50d91d1c8c17598b5d23e"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "108ce9e1c8ac64c020d7c268dc0823778424c7d0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "437237ea05337ea115fc13dc9efcd3792c2d2fc3343eba1ac8eb3829322f4896"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bfcae4b6703a3f3dc5dc263cbfc28ea2abfa489e"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "9f4dca186201ca04d4f5b0940d82d5477c8b9098f89f6a372c88d9d32bd75ce4"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f961ffed77fb3fd41e08844937484ca73b4fe797"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "c290189e6db24fe4c9eb7a2dda44b58da87f6fe575e36c579d6c8885621a0ac3"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8e3d8595d8aade7b1ecf4e69bcbe05c6ce9ddaee"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "cff0c558697a5463ada03ec231ef7f0bacb4073772686227b91fdd784e862241"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7126ede44a7001649892b0f4b278df845d89ee81"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "86373b27c34918b30dbc0aa022df3bd28c09208e3b7936dd3f17bf4e6c7088ab"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb23b3803b75e2e96a40d35b9582cbe1397a8fd4"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "52a900c42102a52a3aa2ba39ed4c0c91331f7ea8aa8d33a26d63e4c2d5374e7c"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a2997f47520973e506a849e929a1d4fb8d1758e9"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "e863fe900d68db2e93a9153596d21973d1bf39e6e13c3004e5cd042dd4fa2016"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "78d8b93e478716491102cca86a196a3dd50a3199"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "fb4521b2c0a41bd4a8f19564fdfb701b00e37a633b81e5942cfe9c14b43d3e60"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e079ec1dc12b4edb72c5b848e2fbf07bd46add18"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "8861bc0783ee35955d1b3d6a8e7ec8c1869c80c50a0be7b4cee681c095c9d9e0"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "55ac40215510b7dcd66e3579fcf8ee814b1920df"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "1efc10355c939ec38e93e729eb9ff98d504357a1116dc66bd39d3d71e0046df5"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c4cbb5647b9e38729b32349f0a6f3c21427eb60"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "69a97c3d1214e49492a03c5cad426fa94e60ae1b5b2e0217518a8b6d9fde5db6"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7d8edf7deca6d5ab6f6b1303dafc7e17289154e0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "abcfe0061bb97ff06a123c8479210c85f04704bf3e107e05e601b85215cf2124"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e9cc150a9dd245cc6883e2d3e93fe97ab38a475b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "60c75ca32bbd43304ef2bedbfeff878b5a9b030fba2e97ce32ba13c018c3bdc5"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "16ee4af66e1770acfd97182e83ff85fbcd02aba7"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "a1bc399400b9ed6909b23834e83d00db7d69e2b83d158f5035c9b9a2131361c6"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2afce2fb607fa8fe73f7c6659f4318cf8f69a2cc"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "b77447349692b7e31c1fc7b166b78d099da4d7ad2961a38abc0e4417a3cc1640"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "63cf63f23070e1233e966ecd897aee80840c9978"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "00ee6210406975060bb32429bb7d9bca01e7e59b1a08aad65a3c15178e1601d4"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "134d27288248dd3c024c360cbf5bf36b8261b607"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "09c5e2eae5c2b36e5e426075ea3d3563da557cb880f7582905c26207368e9829"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8d45ce3253fa5272d9c2cf2e056630d5015c097f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "06e035b7a16d2ddb32c0d130e1626e5b2a398561f22e173014c318a4bf0df1a4"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1222515e456fcb90e588d7e39ea9e1cfb36f4965"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "6d647cbe76b8da8ad3ab1db2e78f025f9371ff2f1f15f23cb6190552feb7a3b4"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4886b1da441ea7f847836da40f6a5a699ff9005b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "9644f3031529a96da01a23990dafe29c67ef826257de2d1b5ef85c35d1167e38"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "74bdc267fc0bf6296acd956f34d59e4a8c67d61d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "3981e2d8440b895a9c79afda5224c39080693861b3f3ef5326cea3e1921f7bb8"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c346c8552e5db5236cd57945916f6ae15dc30ea7"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "b65401c644029475bce1df5c7d9789052e26ae43479e2e90c96a292f0791b59e"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea1f4cf11cee86879e6b5e515a5972fe3dfbc419"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "80a4faa4950ba93371a59ce1241e34a1e6d4269537ff74c27ddb02d6b0933cd5"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1c61e8abde89f7324beb7d76db05fec1469ff451"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "e5794ca441f7e1c79756087d1110f787a18703342e19061bc3a366034ab1fa4e"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "945e98f6d03322a541351b0b24c6d89671846245"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "ab9667cf46751da9cd8492d19b458c20bfa4b48580a551dee6686e30b28acd4a"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9f3c574dbb72c9441982209a25701cd2a32588f2"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "f1090e9848dddaadfe7bb59e3a00b3558e1d26f2d9f7916ec96296a0847c5722"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-musl-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bff78d2a166d423674e7d50e5162913b52a073d4"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "42663158b38628f5c14e929124feb8a9c906651c28823074a823306c29b0df52"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-musl-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4da60ee5fa10c6c0f6a2eea7fdbf8e5ea65fb381"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "2ad7e00bb78034f84ae2d48da582163f538c542824a7f35c377a0d26ccff95e0"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-musl-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "055998f6560572284cda1516392c6036a0c79282"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "69585ee4e0682c7aeddf33a750925980f8c18f802944b31f62f79a84af650c07"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-musl-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fcd658e3475b1889671fe94e697366add5f2339a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "5ffcfcef24c51f0ea753be184afd5ff44c719503cce837d1ad4e9db75cb959b0"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "57a2be1fd3f958f7bd318e84b614ddb55c298cfc"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "37684f43d86a8c92abf5bfb7a93679476a52a72c1bc24956fc95abc77c85f49b"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "53f562667c83ec074e334bf97b14d4c40b98623f"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "3da79e17ddd6e4a4f7d480e7697642a0d973ef64edbb9c00a0e63b1a73bf1f1b"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-w64-mingw32-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fc75a622340ba572783e94e6119b22aa4a6e086f"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "7c5a454bab198261b1bc48ac76f7159d01125ad78c134e1b44f3a3e180b12722"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-w64-mingw32-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f92f052a5d8936ed4daff9416ea9d38a7349d308"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "0dc2bbc955f8e299c8f03075259f1397117cd529a9bed70e99959b675cd58020"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-w64-mingw32-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9ad040aa56dd4ac0e996d1427129e00ef566d92c"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "161ad6e9eae62fb4802ef1f822d94c02d16e01b0a833a895a69846295c0dc0f0"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d17d7be4422851b5ee67cc9c063a761d87db88d"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "9b177bf3634ec81a94dade8c50f4da3a7c5d22c60b8e7d851753f9a40331345b"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1998aa811e0e550a9ae8e64480a15da5df935c97"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "bbf615e163bf1c96ef043c2eba3da911f0a6c50c7dd3589bc94b573bc9f33fb6"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5f7484bf5b98fe2899d06fb6c338ec4638eea88d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "bb0bc9f2a22a518cba61f6ed53f1690742a099ba63d23f0ab6c869e4d047d20f"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.powerpc64le-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5705ebb1f4bd846f65641ad796d033326ccd86c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "d09845f67c6ce2129effe96b7805200c57064d3b548c5358987fb2b4a7fad68a"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.powerpc64le-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2f6e717050dda003b8fdb8306ef9f05fe1aec191"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "33d01b4dc778e4b1c6669a2b68411bbbc59198a108978df7f7c68d13d283f00b"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cde8bd62c7f813201f90fb568187f9ddc4a9ff17"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "3df877f3fdd0d1956215f7ce9685db6715af088d13c9c337993dc524dcea15c0"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3ae27d75337f8991c24b6b2cc4cdf3f0b0e2ff11"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "7ccf93d7b846fbe18a52fcd24c30177b52ba8b1b58d291c704f2acf1879e60c0"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e28acf605ba2cd364d4e2e837f841bb8df2c90f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "6dc7359379dfce292eea90367c711fee4870728c7befa4d1b7598abfe245af70"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+git-tree-sha1 = "50cb2ad273ac6a06bb93ca29bf410b0d91b2c08f"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[QCDNUM.download]]
+    sha256 = "2cac2ff600379c77e0f208177bbbbdc4a21159bf67b04246b521959da509cba8"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+git-tree-sha1 = "952e09f6fd0f95ec4c71a3125d6cd656bdcf4cef"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[QCDNUM.download]]
+    sha256 = "fc578608152c3379a7aa769cebdabe4f70f8ae10fa18292e60b754f108dc8e14"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+git-tree-sha1 = "f765afab6bbc4cb6380f5ad78fef3eded0841c63"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[QCDNUM.download]]
+    sha256 = "b29dfcf232e06445f39909185a6089f21c27fa9f040476c354343b4d59f7d272"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "61c7140437afc04142282138b8d7be398cd5c38f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "e7b4861a27bc271ad0575db5e8e86a7ec090542f25a17d2a2040ffac1116d696"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a00ae52f7d60478302fcded7ad972e33088ead40"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "18bb7c04785e8830644c65275eae94df5d6d29406d5d1004974c48a7a5f79a78"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e42258a693a4f50aeb2da9be8fd47214bdce72f8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "300e7672b8bdf9d0f1ce53ebbb6569d76b7691ddc498b6bb29a50161a0f9bf27"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "22e71a222a7e532f3255df57b080ed4716b0b189"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "1e4c36042bcb58ed373066aeca9658326fba7f9606b2c6328413edd7ea90666f"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aacec8613d46d03feff94b00d6cee52152b6eaef"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "b05182188a5fda3007cfee9d982e4885b5e3ec2ca60fb15e2e198f79aca0f3e2"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bb7f92a9f5eea4a2c65c9c3fb4f6a4e57aa64583"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "cf7e061c85c8c50166f109a2db4c967a9284f814dfe671fef752f59fa7e4e2d3"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "523f54d94dc7e5055c5954bcb61c794c0c43b929"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "219d6d0cbe6e2706d28c16f72af71518188fe8a50163265b316ad38d98869753"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1bcb46d1fc8da2e98b14cebdc802131308105b54"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "1bb839ae8356265d14c3d2c5ccd1014b6b786634c23209f8c400e6e8af28157d"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "288184a7b88557e8ed894340b2153a3f46ef55e3"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "873a4f2f7ec8e64561d501e71a8e9c847062e446486bca7f81819a9197529e32"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "727f67ed7b4a546e284a08fe8eaa8d88b9f3e6b5"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "765ca17d259302fca0df3b1fa32396cf01f315c121542e0ca11c75b790041c91"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5d104f9bcbc60049f58654e50792c3f7e10ad907"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "7fd66c3ca5252632ae62778ebc856faf5b69973c1217272099d75e5bb8ea409c"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d99d12ac9912f6d5e150785db7ae3baec9a9f70c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[QCDNUM.download]]
+    sha256 = "94da69224c9e5fddc634b43c9aa851c2c50ec220a73a24488f0221432af2a190"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+git-tree-sha1 = "1913622207799526f167e8a5803c8714bbf50acb"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[QCDNUM.download]]
+    sha256 = "0dff69b8d59fdbca78031c26016609ff5095340c18802e1173bec729c8f78463"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+git-tree-sha1 = "ad3a9a4e8ca8e0bd808dc0d3e040ae3d70fda73c"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[QCDNUM.download]]
+    sha256 = "a5e1a1798bad44526c76660acde31a26ae0472019fbb4148b2e06779d5f5b580"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+git-tree-sha1 = "b9470cec574fdbb7cf5c5f5d29ddb855bada8b6f"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[QCDNUM.download]]
+    sha256 = "7574035b1c570238e42c25167abb805477a27c4e2ba061493316b6b92db92705"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2788f4f455445e3a7f2525aaebd43c55b2ef8eb7"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "db9f5d8399d7bb05e14c91751cf45914058cb0d42879db10b3badbff0fad56ed"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-w64-mingw32-libgfortran3-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7aa76d683936f06ff8abcdb9ebaf3f48133001e4"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "634ca175dc738c1e2f8fa39dd71ba5cbd02918fbbac3e24d91d209821d435adb"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-w64-mingw32-libgfortran3-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0bf4b420e3ed93b0a1bd1069395d294519208fc8"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "70f7c04c2c900b9bb9aa1922647cf7f1df57604a1f3ea77e7e1d31b9d711f1e3"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-w64-mingw32-libgfortran4-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "099c4ed2214bbacdc1682e15ede8c35cd1a04712"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "723986a2863b589e30f95e04844eab58c32f23dd498663422e1a6eb1579c47bd"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "befbaa660692d893f8acfcae41c571aa45bde125"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "730ad3987b474aaf858cb0a038502030050d9b3211c00822633be68867c9763d"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
+[[QCDNUM]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "257d1610aa793557187b011dbf3a6012c7683c4d"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[QCDNUM.download]]
+    sha256 = "862683e4f700a1bd3b409976d642579acbe2816a65eaab4376663ad3c8ef2a57"
+    url = "https://github.com/JuliaBinaryWrappers/QCDNUM_jll.jl/releases/download/QCDNUM-v17.1.83+0/QCDNUM.v17.1.83.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
