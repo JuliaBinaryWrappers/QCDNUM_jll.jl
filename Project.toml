@@ -1,6 +1,6 @@
 name = "QCDNUM_jll"
 uuid = "4f99f0f9-6eee-532a-a65d-722344444835"
-version = "17.1.83+0"
+version = "18.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
